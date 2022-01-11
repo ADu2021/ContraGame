@@ -1,0 +1,68 @@
+﻿  ContraGame.cpp
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(394,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(671,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1071,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1075,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1166,33): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1169,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1170,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1182,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1187,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1194,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1199,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1249,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1269,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1287,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1318,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1392,121): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1392,102): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1786,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1787,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(1999,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2000,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2149,122): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2149,94): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2149,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2149,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2219,77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2219,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2223,76): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2223,67): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2515,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2516,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2748,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2749,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2829,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2954,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2954,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2966,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2966,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2979,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2979,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2994,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(2994,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3016,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3028,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3028,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3036,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3037,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3071,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3072,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3081,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3082,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3091,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3092,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3102,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3102,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3117,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3117,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3116,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3116,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3158,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\ContraGame.cpp(3203,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  1 of 338 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ContraGame.vcxproj -> C:\Users\sheep\Desktop\大一上\程序设计基础\程序设计基础_2021_大作业_框架与模板\src\ContraGame\Release\ContraGame.exe

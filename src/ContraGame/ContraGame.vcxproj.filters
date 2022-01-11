@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{146b43ce-58cc-4a8a-b264-b41c88fd83de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ContraGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ContraGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ContraGame.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\START.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Blue.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Grass.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Red.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\marine.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\BackgroundCity.bmp" />
+    <Image Include="res\Player.png" />
+    <Image Include="res\Player.bmp" />
+    <Image Include="res\bitmap2.bmp" />
+    <Image Include="res\City.bmp" />
+    <Image Include="res\QUIT.bmp" />
+    <Image Include="res\RESUME.bmp" />
+    <Image Include="res\Buttons\CONTINUE.bmp" />
+    <Image Include="res\Buttons\HELP.bmp" />
+    <Image Include="res\Buttons\MAIN_MENU.bmp" />
+    <Image Include="res\Buttons\NEW_GAME.bmp" />
+    <Image Include="res\Buttons\QUIT.bmp" />
+    <Image Include="res\Buttons\RESUME.bmp" />
+    <Image Include="res\Buttons\SAVE.bmp" />
+    <Image Include="res\cursorBlue.bmp" />
+    <Image Include="res\BGMainMenu.png" />
+    <Image Include="res\BGMainMenu.bmp" />
+    <Image Include="res\pause.bmp" />
+    <Image Include="res\Buttons\RESTART.bmp" />
+    <Image Include="res\castle.bmp" />
+    <Image Include="res\fx1.bmp" />
+    <Image Include="res\Bee.bmp" />
+    <Image Include="res\HP.bmp" />
+    <Image Include="res\HPBAR.bmp" />
+    <Image Include="res\MP.png" />
+    <Image Include="res\MP.bmp" />
+    <Image Include="res\GREY.bmp" />
+    <Image Include="res\BLOCK1.bmp" />
+    <Image Include="res\BLOCK2-0.png" />
+    <Image Include="res\BLOCK2-0.bmp" />
+    <Image Include="res\BLOCK2-1.bmp" />
+    <Image Include="res\BG_TUTORIAL.bmp" />
+    <Image Include="res\BG_HELP.bmp" />
+    <Image Include="res\HELP\HELP0.bmp" />
+    <Image Include="res\SPIKE.bmp" />
+    <Image Include="res\GATE.bmp" />
+    <Image Include="res\BULLET.bmp" />
+    <Image Include="res\SUCCESS.bmp" />
+    <Image Include="res\BOSS.bmp" />
+  </ItemGroup>
+</Project>
